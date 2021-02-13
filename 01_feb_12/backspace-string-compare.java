@@ -1,3 +1,4 @@
+// https://leetcode.com/problems/backspace-string-compare/
 class Solution {
     public boolean backspaceCompare(String S, String T) {
         StringBuilder sbS = new StringBuilder();
